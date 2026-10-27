@@ -1,0 +1,5 @@
+# konce řádků vždy LF (projekt vzniká na Windows i jinde)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ico binary
